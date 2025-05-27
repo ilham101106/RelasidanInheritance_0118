@@ -15,5 +15,5 @@ public:
         ~manusia(){
             cout<<nama<<" mati\n";
         }
-};
+}; 
 #endif 
